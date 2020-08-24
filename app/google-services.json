@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "468960199834",
+    "firebase_url": "https://bottomnavbartests.firebaseio.com",
+    "project_id": "bottomnavbartests",
+    "storage_bucket": "bottomnavbartests.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468960199834:android:db8e5f05c71b0cadcc8b23",
+        "android_client_info": {
+          "package_name": "com.example.bottomnavbartests"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468960199834-i91iilimlqga6neu1tou7br3o7d39ge6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYTK7S6lXXqYId1VDbgmmSbLDHJwKno1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468960199834-i91iilimlqga6neu1tou7br3o7d39ge6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
