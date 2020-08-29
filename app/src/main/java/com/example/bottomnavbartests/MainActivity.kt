@@ -1,5 +1,6 @@
 package com.example.bottomnavbartests
 
+import android.annotation.SuppressLint
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -64,6 +65,7 @@ class MainActivity : AppCompatActivity() {
         startActivity(Intent(this, LogInActivity::class.java))
 
     }
+
 
     private fun makeCurrentFragment(fragment: Fragment) =
         supportFragmentManager.beginTransaction().apply {
